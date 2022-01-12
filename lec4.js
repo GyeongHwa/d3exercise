@@ -7,6 +7,7 @@ const canvas = d3.select("body")
             .attr("width", 500)
             .attr("height", 500);
 
+            
 const bars = canvas.selectAll("rect")
             .data(dataArray)
             .enter()

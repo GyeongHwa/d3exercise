@@ -1,6 +1,5 @@
 //lecture5. Scales
 
-
 var dataArray = [20, 40, 50, 60];
 var width = 500;
 var height = 500;
